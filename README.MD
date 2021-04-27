@@ -4,8 +4,8 @@
 
 ## Introduction
 
-Magisk is a suite of open source software for customizing Android, supporting devices higher than Android 5.0.<br>
-Here are some feature highlights:
+Welcome to the Ultimate Redmi 9 Guide !
+This guide is intended for rooting and/or installing custom ROMS the new Redmi 9 phone from Xiaomi (codename : lancelot)
 
 - **MagiskSU**: Provide root access for applications
 - **Magisk Modules**: Modify read-only partitions by installing modules
@@ -27,9 +27,10 @@ Here are some feature highlights:
 - [Magisk Documentation](https://topjohnwu.github.io/Magisk/)
 - [Magisk Troubleshoot Wiki](https://www.didgeridoohan.com/magisk/HomePage) (by [@Didgeridoohan](https://github.com/Didgeridoohan))
 
-## Bug Reports
+## ROMs and Recoveries Submission
 
-**Only bug reports from Canary builds will be accepted.**
+
+**Submit new compatible ROMs and custom recoveries**
 
 For installation issues, upload both boot image and install logs.<br>
 For Magisk issues, upload boot logcat or dmesg.<br>
@@ -64,7 +65,7 @@ Translate each and place them in the respective locations (`[module]/src/main/re
 
 ## License
 
-    Magisk, including all git submodules are free software:
+    LanceRoot, including all git submodules are free software:
     you can redistribute it and/or modify it under the terms of the
     GNU General Public License as published by the Free Software Foundation,
     either version 3 of the License, or (at your option) any later version.
